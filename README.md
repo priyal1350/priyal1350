@@ -5,7 +5,7 @@
    <a href="https://x.com/home">
     <img src="https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </a>
-  <a href="https://www.linkedin.com/in//">
+  <a href="https://www.linkedin.com/in/priyal-jain-5b5992286/">
     <img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    <a href="">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
