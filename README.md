@@ -7,7 +7,7 @@
 </a>
   <a href="https://www.linkedin.com/in//">
     <img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-   <a href="https://www.instagram.com/shail_545/">
+   <a href="">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
    <a href="https://leetcode.com/u/Priyal_Jain12/">
@@ -17,10 +17,10 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
 </a>
 <!--   </a>
-    <a href="https://github.com/debasishbsws/resume">
+    <a href="">
     <img src="https://img.shields.io/badge/Resume-blueviolet?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website Badge"/>
   </a> -->
-<!--   <a href="https://twitter.com/debasishbsws">
+<!--   <a href="">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a> -->
 </div>
